@@ -2,7 +2,7 @@ body{
     text-align: center;
     font-family: "Happy Monkey", cursive;
     color: #ffffff;
-    background:  #a2d2ff;
+    background: linear-gradient(#a2d2ff, #efb0c9);
     
 }
 
@@ -80,4 +80,13 @@ h1,h2,h3,h5{
 #gift33:hover{
     background-image: url("cheers.gif");
 
+}
+#footer{
+    width: 400px;
+    margin: 40px auto 20px;
+    font-style: italic;
+    
+}
+a{
+    color: white;
 }
